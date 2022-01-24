@@ -1,8 +1,0 @@
-ros-rolling-nao-sensor-msgs (0.0.3-1focal) focal; urgency=high
-
-  * separated msgs into two different packages, sensor and command packages
-  * Contributors: Kenji Brameld
-
- -- ijnek <kenjibrameld@gmail.com>  Fri, 16 Jul 2021 15:00:00 -0000
-
-
